@@ -2,6 +2,8 @@
 //!
 //! module providing shapes
 
+use super::utils;
+
 pub mod cube;
 pub mod cuboctahedron;
 pub mod icosahedron;
